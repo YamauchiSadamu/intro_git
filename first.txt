@@ -3,3 +3,4 @@ Gitの
 テスト２
 変更テスト
 ・git status
+・git diff
